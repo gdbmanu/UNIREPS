@@ -5,3 +5,6 @@
 *.fls
 *.fdb_latexmk
 *.out
+2026-11-12*.pdf
+unireps_2026.bbl
+unireps_2026.blg
